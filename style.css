@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: burlywood;
+    background-color: rgb(179, 86, 53);
     font-size: 20px;
 }
 .container { 
@@ -23,7 +23,7 @@ button {
     width: 100%;
     height: 30px;
     border-radius: 5px;
-    background-color: brown;
+    background-color: blueviolet;
     border: none;
     font-size: 15px;
     color: white;
@@ -33,11 +33,11 @@ button {
     width: 100%;
     border-radius: 5px;
     padding: 5px;
-    border: 2px brown solid;
+    border: 2px blueviolet solid;
  }
  p {
-    color: brown;
+    color: blueviolet;
  }
  label {
-    color: brown;
+    color: blueviolet;
  }
